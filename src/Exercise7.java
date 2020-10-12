@@ -10,7 +10,8 @@ import java.util.Scanner;
                 if (year % 4 == 0) {
                     System.out.println(" ");
                     System.out.println(year + " is a leap year.");
-                } else {
+                } 
+                else {
                     System.out.println(" ");
                     System.out.println(year + " is not a leap year.");
                 }
